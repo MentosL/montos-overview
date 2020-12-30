@@ -9,7 +9,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentosl&hide=css,JavaScript,Html)](https://github.com/mentosl)
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mentosl&show_icons=true&theme=tokyonight)
+![mentosl's github stats](https://github-readme-stats.vercel.app/api?username=mentosl&show_icons=true&theme=tokyonight)
 
 
 微信联系方式:
