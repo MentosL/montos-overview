@@ -13,4 +13,4 @@
 
 
 微信联系方式:
-![微信图片](https://github.com/MentosL/montos-overview/image/wechat.jpg)
+![微信图片](https://github.com/MentosL/montos-overview/blob/main/image/wechat.jpg)
